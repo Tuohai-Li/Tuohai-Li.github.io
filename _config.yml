@@ -103,7 +103,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/Tuohai-Li/Tuohai-Li.github.io
+  repository: git@github.com:Tuohai-Li/Tuohai-Li.github.io.git
   branch: master
   token: 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
 
